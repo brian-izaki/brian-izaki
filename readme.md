@@ -8,7 +8,7 @@ No momento estou estudando sobre o universo Java e o framework Spring.
 
 Atualmente estou trabalhando na GoStartLabs.
 <br/> :scroll: Sou novo mas, no que eu puder ajudar com JS eu tentarei o máximo possível.
-<br/> :koala: Sobre mim: gosto de desenvolver aplicações e apreciar o seu resultado final, também curto animes (One Piece, Steins Gate, etc) e games.
+<br/> :koala: Sobre mim: gosto de desenvolver aplicações e ver o seu resultado final, também curto animes (One Piece, Steins Gate, etc) e games.
 <br/> :crystal_ball: Você pode me encontrar no:
 <br/>
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/public-profile/in/brian-izaki-45b60b186)](https://br.linkedin.com/public-profile/in/brian-izaki-45b60b186)
