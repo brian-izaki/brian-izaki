@@ -1,7 +1,6 @@
 # Olá! Bem vindo ao meu perfil!! 🎉🎊
 
-No momento estou estudando sobre o universo Java e o framework Spring.
-<br /> Constantemente estou estudando :books: e desenvolvendo :computer: alguma API, Template ou aplicação com JS
+No momento estou estudando sobre o mundo do Typescript e Vue.js, mas tbm de vez em quando olho pro amigo C# e dotnet.
 
 <br/>
 
